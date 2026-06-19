@@ -1,9 +1,3 @@
 theme: jekyll-theme-minimal
 title: joe hannon's blog
 author: joehannon
-
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      layout: "posts"
