@@ -1,4 +1,5 @@
 theme: minima
 title: joe hannon's blog
 author: joehannon
+markdown: kramdown
 usemathjax: true
