@@ -1,8 +1,5 @@
 theme: minima
-title: Joe's blog
-author:
-  name: Joe Hannon
-  email: "joe@jdhannonpartners.com"
+title: Joe Hannon's blog
 description: Mostly tech
 markdown: kramdown
 hide_site_feed_link: true  # `false` or `null` by default
