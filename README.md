@@ -1,17 +1,12 @@
-
-<div align="center">
-
 # One 
 
 ### Three
 
-## 🚀 Two
+## Two
 
 **Two stars**
 
 ### Three
-
-</div>
 
 ---
 
